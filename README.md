@@ -1,4 +1,10 @@
 # 💫 Hi 👋, I'm CODERUDRA-X
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/CODERUDRA-X/count.svg" />
+</p>
 **A passionate  || AI Enthusiast || Building CODERUDRA-X Legacy**
 
 Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or Anything Else. 😊😊
