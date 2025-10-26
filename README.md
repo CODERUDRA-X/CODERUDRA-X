@@ -1,20 +1,17 @@
-# 🌻 Hi 👋, I'm CODERUDRA-X
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  🌻<br>
-</p>
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; Hi 👋, I'm CODERUDRA-X
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 **A passionate  || AI Enthusiast || Building CODERUDRA-X Legacy**
 
 Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Vyuha Prototype(AI-driven Drone Swarm Logic).
 - 🌱 **I’m currently learning:** Deep DSA(C++),Python/Pygame,Predictive AI/ML Maths (MIT OCW).
 - 👯 **I’m looking to collaborate on:** Projects involving image analysis,Simulation, or Drone logic.
 - 🤔 **I’m looking for help with:** Mentorship on scaling my Defense AI vision & complex systems architecture.
 - 💬 **Ask me about:** DSA fundamentals,Beginner Python projects, or the 'Tier-3 to CEO' Mindset.
 - ⚡ **Fun fact:** I Believe the greatest battles are won by building a strong 'WHY' before writing a single line of code.
+<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_.shreyansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-srivastava-9a83b9291) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/CODERUDRA-X) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/coderudrax) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/coderudrax) 
