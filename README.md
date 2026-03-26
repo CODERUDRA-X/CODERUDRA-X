@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or A
     <img src="https://skillicons.dev/icons?i=instagram&perline=10" height="40" alt="Instagram" />
   </a>
   
-  <a href="https://discord.gg/invite_link_yahan_daalo">
+  <a href="https://discord.com/users/1408799032016502786">
     <img src="https://skillicons.dev/icons?i=discord&perline=10" height="40" alt="Discord Server" />
   </a>
   <a href="https://wa.me/contact_link_yahan_daalo">
@@ -75,23 +75,23 @@ Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or A
 # HACKTOBERFEST👾
 [![An image of @coderudrax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderudrax)](https://holopin.io/@coderudrax)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=coderudra-x&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=coderudra-x&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderudra-x&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 LIVE TELEMETRY (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderudra-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderudra-x&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&layout=compact" width="48%" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coderudra-x&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coderudra-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderudra-x&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff" width="100%" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=coderudra-x&icon=9&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ RANDOM DEV LOG
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 ![Snake animation](https://raw.githubusercontent.com/CODERUDRA-X/CODERUDRA-X/output/github-snake-dark.svg)
 
