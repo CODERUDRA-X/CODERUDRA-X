@@ -51,12 +51,6 @@ Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or A
 # HACKTOBERFEST👾
 [![An image of @coderudrax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderudrax)](https://holopin.io/@coderudrax)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coderudra-x&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=coderudra-x&theme=ambient_gradient&hide_border=false)<br/>
@@ -75,4 +69,5 @@ Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or A
 [![](https://visitcount.itsvg.in/api?id=coderudra-x&icon=9&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://raw.githubusercontent.com/CODERUDRA-X/CODERUDRA-X/output/github-snake-dark.svg)
 
