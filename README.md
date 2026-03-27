@@ -13,13 +13,16 @@
 **A passionate  || AI Enthusiast || Building CODERUDRA-X Legacy**
 # 🚀 CODERUDRA-X | Initiating Operation Rebirth. Several Defense-AI & Python projects are currently classified (private) for development. Declassifying soon...❄️
 
-Email Me 👉 ✉️ **harshgroups247@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🔭 **I’m currently working on:** Vyuha Prototype(AI-driven Drone Swarm Logic).
-- 🌱 **I’m currently learning:** Deep DSA(C++),Python/Pygame,Predictive AI/ML Maths (MIT OCW).
-- 👯 **I’m looking to collaborate on:** Projects involving image analysis,Simulation, or Drone logic.
-- 🤔 **I’m looking for help with:** Mentorship on scaling my Defense AI vision & complex systems architecture.
-- 💬 **Ask me about:** DSA fundamentals,Beginner Python projects, or the 'Tier-3 to CEO' Mindset.
-- ⚡ **Fun fact:** I Believe the greatest battles are won by building a strong 'WHY' before writing a single line of code.
+**> DIRECTIVE: SECURE COMM-LINK**
+📧 **Ping the Mainframe:** [`harshgroups247@gmail.com`](mailto:harshgroups247@gmail.com) for Tactical Collabs & AI Projects.
+
+**> CURRENT SYSTEM STATUS:**
+- 🎯 **Executing:** Prototype VYUHA (Decentralized AI-Driven Drone Swarm Logic).
+- 🧠 **Processing:** Advanced C++ (Deep DSA) & Predictive ML/AI Mathematics (MIT OCW).
+- 🤝 **Open for Alliance:** Computer Vision, Simulations, and Autonomous Drone Architectures.
+- 📡 **Seeking Intel:** Mentorship in scaling Defense-AI systems and complex architectures.
+- 💬 **Query Me On:** Image Analysis, Automation pipelines, and the "Tier-3 to CEO" Mindset.
+- ⚡ **Core Philosophy:** "The greatest battles are won by building a strong 'WHY' before writing a single line of code."
 
 ## 🛰️ ESTABLISHING COMM-LINKS (Tactical Connect)
 <code>> ENCRYPTED LINE AVAILABLE // CLEARANCE GRANTED</code>
