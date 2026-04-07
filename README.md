@@ -93,7 +93,9 @@
 
 ### 📜 THE SACRED PROTOCOLS
 <div align="center">
-  <img src="gita_verse.svg" width="100%" alt="Sacred Protocol" />
+  <a href="https://github.com/CODERUDRA-X/Defense-AI-Research-Archive">
+    <img src="https://raw.githubusercontent.com/CODERUDRA-X/Defense-AI-Research-Archive/main/gita_verse.svg" width="100%" alt="Sacred Protocol" />
+  </a>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/CODERUDRA-X/CODERUDRA-X/output/github-snake-dark.svg)
