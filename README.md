@@ -93,7 +93,7 @@
 
 ### ✍️ RANDOM DEV LOG
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="gita_verse.svg" width="100%" alt="Sacred Protocol" />
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/CODERUDRA-X/CODERUDRA-X/output/github-snake-dark.svg)
