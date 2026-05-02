@@ -2,8 +2,8 @@ name: Space Defense Contribution Shooter
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Har raat 12 baje (IST ke hisaab se timing check kar lena)
-  workflow_dispatch: # Manual trigger ke liye
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -15,9 +15,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Upgraded to v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install requests
@@ -25,16 +25,14 @@ jobs:
       - name: Generate Shooter SVG
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Ye line Node.js 24 force karegi aur warning hata degi
+          # Force Node 24 to kill the warning
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true' 
-        run: |
-          pip install requests
-          python shooter.py
+        run: python shooter.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "CODERUDRA-X"
           git config --global user.email "harshgroups247@gmail.com"
           git add contribution_shooter.svg
-          git commit -m "Space Defense: Contribution Shooter SVG Updated" || exit 0
+          git commit -m "Space Defense: Precision Strike SVG Updated" || exit 0
           git push
