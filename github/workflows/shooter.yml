@@ -1,0 +1,36 @@
+name: Space Defense Contribution Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Har raat 12 baje (IST ke hisaab se timing check kar lena)
+  workflow_dispatch: # Manual trigger ke liye
+
+permissions:
+  contents: write
+
+jobs:
+  generate-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Shooter SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python shooter.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "CODERUDRA-X"
+          git config --global user.email "harshgroups247@gmail.com"
+          git add contribution_shooter.svg
+          git commit -m "Space Defense: Contribution Shooter SVG Updated" || exit 0
+          git push
