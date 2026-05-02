@@ -1,8 +1,13 @@
 name: Daily Sacred Protocol Update
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Har raat 12 baje
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-protocol:
     runs-on: ubuntu-latest
@@ -11,7 +16,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-      - run: python protocol_bot.py
+      - run: python protocol.py
       - name: Commit and Push
         run: |
           git config --global user.name "CODERUDRA-X"
