@@ -1,1 +1,21 @@
-
+name: Daily Sacred Protocol Update
+on:
+  schedule:
+    - cron: "0 0 * * *" # Har raat 12 baje
+  workflow_dispatch:
+jobs:
+  update-protocol:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - run: python protocol_bot.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name "CODERUDRA-X"
+          git config --global user.email "harshgroups247@gmail.com"
+          git add -A
+          git commit -m "Sacred Protocol: Daily Update" || exit 0
+          git push
