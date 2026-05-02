@@ -1,3 +1,9 @@
+<!-- GITA_START -->
+<div align='center'>
+  <img src='gita_verse.svg' width='100%' />
+</div>
+<!-- GITA_END -->
+
 <div align="center">
   <img src="radar.svg" alt="CODERUDRA-X Radar Scan" width="180"/>
   <br>
