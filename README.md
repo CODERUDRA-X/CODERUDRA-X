@@ -98,7 +98,7 @@
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/CODERUDRA-X/CODERUDRA-X/output/github-snake-dark.svg)
-
+---
+### ME WITH BUGS
 ![Space Defense](contribution_shooter.svg)
 
