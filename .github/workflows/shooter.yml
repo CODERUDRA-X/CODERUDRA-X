@@ -1,3 +1,5 @@
+# [!] CODERUDRA-X STAR WARS
+#  Space Defense Interceptor (Auto-Generator)
 name: Space Defense Contribution Shooter
 
 on:
@@ -25,7 +27,7 @@ jobs:
       - name: Generate Shooter SVG
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Force Node 24 to kill the warning
+          # Force Node 24 to kill the warning(imp.)
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true' 
         run: python shooter.py
 
