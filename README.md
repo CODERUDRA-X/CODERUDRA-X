@@ -92,12 +92,13 @@
 ---
 
 ### 📜 THE SACRED PROTOCOLS
+<!-- GITA_START -->
 <div align="center">
   <a href="https://github.com/CODERUDRA-X/CODERUDRA-X">
     <img src="https://raw.githubusercontent.com/CODERUDRA-X/Defense-AI-Research-Archive/main/gita_verse.svg" width="100%" alt="Sacred Protocol" />
   </a>
 </div>
-
+<!-- GITA_END -->
 ---
 ### ME WITH BUGS
 ![Space Defense](contribution_shooter.svg)
