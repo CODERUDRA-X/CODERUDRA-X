@@ -1,3 +1,10 @@
+# =============================================================================
+#                    SPACE INTERCEPTOR MODULE (v2.1)
+# ARCHITECT: CODERUDRA-X (CODERUDRA-X // DEFENSE-AI RESEARCH)
+# PURPOSE: KINETIC ENGAGEMENT OF GITHUB NODES (CONTRIBUTIONS)
+# SYSTEM STATUS: OPERATIONAL // MISSION-CRITICAL
+# =============================================================================
+
 import requests
 import os
 
@@ -23,18 +30,19 @@ def generate_shooter_svg(weeks):
     width, height = 820, 160
     total_dur = 10 
     sweep_dur = 8  
-    laser_speed = 0.3 # Laser ko niche se upar jaane mein laga waqt
-
+    laser_speed = 0.3 # Laser ke niche/upar jaane mein laga ⌚ 
+    
+    # Building the Core Engine - "the asli maal"
     svg = f'<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg">'
     svg += f'<rect width="{width}" height="{height}" fill="#0d1117" rx="10"/>'
 
-    # Draw Boxes with Precision Kill Logic
+    # space war logic
     for x, week in enumerate(weeks[-52:]):
         col_hit_time = (x / 51) * sweep_dur
         
         for y, day in enumerate(week['contributionDays']):
             color = day['color'] if day['contributionCount'] > 0 else "#161b22"
-            # Row delay: Niche wale boxes pehle hit honge (y=6 is bottom, y=0 is top)
+            #first come first serve
             row_delay = ((6 - y) / 7) * laser_speed
             final_hit_time = col_hit_time + row_delay
             
@@ -51,11 +59,11 @@ def generate_shooter_svg(weeks):
                 svg += f'<animate attributeName="opacity" values="0;1;0" begin="{final_hit_time}s" dur="0.2s" repeatCount="indefinite" />'
                 svg += '</circle>'
 
-    # Moving Group (Ship + Laser)
+    # Deploying the CODERUDRA-X Interceptor Unit
     svg += '<g>'
     svg += f'<animateTransform attributeName="transform" type="translate" values="40,135; 745,135; 745,135; 40,135" keyTimes="0;0.8;0.9;1" dur="{total_dur}s" repeatCount="indefinite"/>'
     
-    # Advanced Glowing Laser
+    # Weapon System: Plasma Laser
     svg += '<rect x="14" y="-10" width="3" height="15" fill="#39d353" filter="drop-shadow(0 0 2px #39d353)">'
     svg += f'<animate attributeName="y" from="-10" to="-130" dur="{laser_speed}s" repeatCount="indefinite"/>'
     svg += f'<animate attributeName="opacity" values="1;1;0" keyTimes="0;0.8;1" dur="{laser_speed}s" repeatCount="indefinite"/>'
@@ -69,7 +77,7 @@ def generate_shooter_svg(weeks):
     
     with open("contribution_shooter.svg", "w", encoding="utf-8") as f:
         f.write(svg)
-
+# SYSTEM EXECUTION
 token = os.getenv("GH_TOKEN")
 if token:
     generate_shooter_svg(get_contributions(token))
