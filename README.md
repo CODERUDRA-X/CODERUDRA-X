@@ -90,8 +90,8 @@
 </div>
 
 ---
-
-### 📜 THE SACRED PROTOCOLS
+  
+## 📜 THE SACRED PROTOCOLS
 <!-- GITA_START -->
 <div align="center">
   <a href="https://github.com/CODERUDRA-X/CODERUDRA-X">
@@ -99,8 +99,11 @@
   </a>
 </div>
 <!-- GITA_END -->
+
 ---
 
-### ME WITH BUGS
+## ME WITH BUGS
+<div align="center">
+  
 ![Space Defense](contribution_shooter.svg)
-
+</div>
