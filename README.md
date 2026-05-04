@@ -100,6 +100,7 @@
 </div>
 <!-- GITA_END -->
 ---
+
 ### ME WITH BUGS
 ![Space Defense](contribution_shooter.svg)
 
