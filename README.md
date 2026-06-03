@@ -80,13 +80,17 @@
 
 # 📊 LIVE TELEMETRY (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderudra-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CODERUDRA-X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderudra-x&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODERUDRA-X&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&layout=compact&langs_count=8&cache_seconds=1800" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderudra-x&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=CODERUDRA-X&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&cache_seconds=1800" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CODERUDRA-X&theme=tokyonight" width="100%" />
 </div>
 
 ---
