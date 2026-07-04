@@ -6,7 +6,7 @@
   <code>> MISSION: OPERATION REBIRTH INITIATED.</code>
 </div>
 
-# <img src="https://github.com/CODERUDRA-X/CODERUDRA-X/blob/main/coderudra_x_soldier.gif?raw=true" width="95">&nbsp; Hi , I'm CODERUDRA-X
+# <img src="https://github.com/CODERUDRA-X/CODERUDRA-X/blob/main/Code_Generated_Image%20(1).gif?raw=true" width="95">&nbsp; Hi , I'm CODERUDRA-X
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
 
