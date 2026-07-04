@@ -73,6 +73,13 @@
   </a>
 </p>
 
+### 🌐 Web & Application Layer
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,js,html,css&perline=10" />
+  </a>
+</p>
+
 # 🛠️ Building in Stealth Mode. Cooking up some serious projects in private repositories. Stay tuned for the big push!
 
 # HACKTOBERFEST👾
