@@ -76,7 +76,7 @@
 ### 🌐 Web & Application Layer
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,js,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,ts,js,tailwind,html,css&perline=10" />
   </a>
 </p>
 
