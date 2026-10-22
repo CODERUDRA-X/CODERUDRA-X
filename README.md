@@ -82,9 +82,6 @@
 
 # 🛠️ Building in Stealth Mode. Cooking up some serious projects in private repositories. Stay tuned for the big push!
 
-# HACKTOBERFEST👾
-[![An image of @coderudrax's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderudrax)](https://holopin.io/@coderudrax)
-
 # 📊 LIVE TELEMETRY (GitHub Stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CODERUDRA-X&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
